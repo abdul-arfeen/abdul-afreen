@@ -1,1 +1,1 @@
-# abdul-afreen
+## Hi, I'm Abdul Arfeen 👋  Frontend Developer focused on building responsive and clean web interfaces.  ### Skills - HTML5 - CSS3 - JavaScript - Bootstrap - WordPress - SEO  ### What I’m Doing - Building frontend projects - Improving JavaScript logic - Creating a professional portfolio  ### Contact - GitHub: https://github.com/abdul-arfeen
