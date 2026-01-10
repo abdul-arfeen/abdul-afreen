@@ -12,6 +12,8 @@ I’m Abdul Arfeen, a Frontend Developer focused on building responsive, user-fr
 ![](https://nirzak-streak-stats.vercel.app/?user=abdul-arfeen&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-arfeen&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/No_Professor_3474/) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=abdul-arfeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
